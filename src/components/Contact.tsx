@@ -215,7 +215,7 @@ export default function Contact() {
                   className="w-full bg-[#1a237e] text-white px-6 py-4 rounded-lg flex items-center justify-center space-x-2"
                 >
                   <span>
-                    {isSubmitting ? 'Sending...' : 'Send Message'}
+                    {isSubmitting ? 'Sending...' : 'Book a Strategy Call'}
                   </span>
                   <Send size={20} />
                 </button>
