@@ -95,14 +95,9 @@ export default function Contact() {
 
               <div className="space-y-6">
                 <div className="flex items-start space-x-4">
-                  <div className="w-12 h-12 bg-[#1a237e] rounded-lg flex items-center justify-center">
-                    <Phone className="text-white" size={24} />
-                  </div>
+  
                   <div>
-                    <h4 className="font-semibold text-lg text-[#1a237e]">
-                      Phone
-                    </h4>
-                    <p className="text-gray-600">+91 8803880397</p>
+                    
                   </div>
                 </div>
 
