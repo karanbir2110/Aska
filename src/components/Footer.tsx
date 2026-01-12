@@ -80,10 +80,6 @@ export default function Footer() {
             <h3 className="text-lg font-bold mb-4">Contact Info</h3>
             <ul className="space-y-3">
               <li className="flex items-center space-x-3">
-                <Phone size={20} className="flex-shrink-0" />
-                <span className="text-gray-300">+91 8803880397</span>
-              </li>
-              <li className="flex items-center space-x-3">
                 <Mail size={20} className="flex-shrink-0" />
                 <span className="text-gray-300">askaamediaa@gmail.com</span>
               </li>
